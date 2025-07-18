@@ -1,11 +1,15 @@
 # 🧪 Lab 01 – Windows Recon: Nmap Host Discovery
 
+![Nmap without Pn](./screenshots/ping+nmap.png)
+
+![Version detection with -sV](./screenshots/services-version-detection.png)
+
+
 
 ## 🎯 الهدف من اللاب:
 استكشاف طرق اكتشاف الأجهزة (Host Discovery) باستخدام أداة Nmap والتعامل مع الحالات اللي بيمنع فيها التارجت الـ ping (ICMP).
 
 ## 📌 اللي حصل معايا:
-
 وأنا ببدأ أعمل ping للتارجت لاحظت إنه مش بيرد خالص جربت بعدها أشغل:
 ```bash
 nmap <target>
