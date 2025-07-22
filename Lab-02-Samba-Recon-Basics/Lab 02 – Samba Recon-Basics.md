@@ -243,6 +243,21 @@ nmap -p445 --script smb-enum-shares,smb-ls --script-args smbusername=administrat
 - الـ IPC$ مهم لجمع المعلومات
 - صلاحيات الـ Guest مختلفة عن اليوزر الحقيقي
 - السيرفر ممكن يكشف كتير لو مش مؤمَّن كويس
+---
+## 📸 Screenshots
+
+
+![enum-users](./screenshots/enum-users.png)
+
+![enum-groups](./screenshots/enum-groups.png)
+
+![server-stats](./screenshots/server-stats.png)
+
+![enum-shares](./screenshots/enum-shares.png)
+
+
+
+
 
     
 
