@@ -7,7 +7,7 @@ This repository contains my personal notes, learnings, and tips while going thro
 ## 🔍 Labs Covered
 
 - Lab 01 – Windows Recon: Nmap Host Discovery
-- ... More labs coming soon.
+- Lab-02-Samba-Recon-Basics
 
 ## 💡 Why I’m Sharing This
 
